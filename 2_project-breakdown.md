@@ -1,4 +1,4 @@
-Here’s a **comprehensive project breakdown** of the **Editorial AI Assistant**, structured into modules, their subcomponents, technologies, team roles, and development phases.
+**Comprehensive project breakdown** of the **Editorial AI Assistant**, structured into modules, their subcomponents, technologies, team roles, and development phases.
 
 ---
 
