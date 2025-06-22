@@ -226,5 +226,3 @@ Absolutely, here is a comprehensive architectural blueprint for an **Editorial A
 ## 📘 Closing Notes
 
 This Editorial AI Assistant doesn’t replace journalists—it **augments** them with machine-generated foresight, leaving **editorial decisions in human hands**. Proper governance ensures **trust**, **diversity**, and **accountability**—critical pillars in modern journalism.
-
-Would you like a **project breakdown**, a **proof-of-concept code repo**, or a **system diagram** to accompany this design?
